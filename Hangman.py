@@ -45,4 +45,3 @@ if "_" not in board:
     print("You win! The word was:", secret_word)
 else:
     print("You lose! The word was:", secret_word)
-  
